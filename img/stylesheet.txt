@@ -1,0 +1,77 @@
+.sprite {background-image: url(spritesheet.png);
+   
+background-repeat: no-repeat;
+display: block;
+}
+
+
+
+.sprite-button1 {
+    width: 100px;
+    height: 33px;
+    background-position: -5px -5px;
+}
+
+
+
+.sprite-button2 {
+    width: 100px;
+    height: 33px;
+    background-position: -115px -5px;
+}
+
+
+
+.sprite-logo {
+    width: 319px;
+    height: 77px;
+    background-position: -5px -48px;
+}
+
+
+
+.sprite-marker_01 {
+    width: 11px;
+    height: 11px;
+    background-position: -225px -5px;
+}
+
+
+
+.sprite-page1_img_01 {
+    width: 140px;
+    height: 109px;
+    background-position: -5px -135px;
+}
+
+
+
+.sprite-page1_img_02 {
+    width: 140px;
+    height: 109px;
+    background-position: -155px -135px;
+}
+
+
+
+.sprite-page1_img_03 {
+    width: 140px;
+    height: 109px;
+    background-position: -5px -254px;
+}
+
+
+
+.sprite-page1_img_04 {
+    width: 220px;
+    height: 219px;
+    background-position: -334px -5px;
+}
+
+
+
+.sprite-smalllogo {
+    width: 6px;
+    height: 14px;
+    background-position: -246px -5px;
+}
